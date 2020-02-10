@@ -1,0 +1,225 @@
+/* prefixed by https://autoprefixer.github.io (PostCSS: v7.0.26, autoprefixer: v9.7.3) */
+
+h1 {
+    text-align: center;
+}
+
+body {
+    background-color: grey;
+}
+
+.container {
+    width: 925px;
+    height: 600px;
+    margin: auto auto;
+    background-color: beige;
+}
+
+.paint__container {
+    height: 500px;
+    width: 205px;
+    margin-right: -4px;
+    /*float: right;*/
+    float: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.canvas__container {
+    float: right;
+    width: 717px;
+    height: 500px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
+
+.btn {
+
+        background:none;
+        border:none;
+        color:#FFF;
+        font-family:Verdana, Geneva, sans-serif;
+        cursor:pointer;
+      
+}
+
+#red__btn {
+    background-color: red;
+    height: 50px;
+    width: 50px;
+    margin: auto auto;
+    display: block;
+}
+
+#yellow__btn {
+    background-color: yellow;
+    height: 50px;
+    width: 50px;
+    margin: auto auto;
+    display: block;
+    margin-top: 25px;
+}
+
+#blue__btn {
+    background-color: blue;
+    height: 50px;
+    width: 50px;
+    margin: auto auto;
+    display: block;
+    margin-top: 25px;
+}
+
+#white__btn {
+    background-color: white;
+    height: 50px;
+    width: 50px;
+    margin: auto auto;
+    display: block;
+    margin-top: 25px;
+}
+#green__btn {
+    background-color: green;
+    height: 50px;
+    width: 50px;
+    margin: auto auto;
+    display: block;
+    margin-top: 25px;
+}
+
+
+#div__11,
+#div__12,
+#div__13,
+#div__14 {
+    clear: right;
+    border-style: solid;
+    border-width: 5px;
+    border-color: black;
+    background-color: white;
+    display: inline-block;
+    margin-right: -4px; /* get rid of the weird space between inline-block elements*/
+}
+
+#div__11 {
+    width: 250px;
+    height: 100px;
+}
+
+#div__12 {
+    width: 175px;
+    height: 100px;
+}
+
+#div__13 {
+    width: 85px;
+    height: 100px;
+}
+#div__14 {
+    width: 150px;
+    height: 100px;
+}
+
+#div__21,
+#div__22,
+#div__23,
+#div__24 {
+    clear: right;
+    border-style: solid;
+    border-width: 5px;
+    border-color: black;
+    background-color: white;
+    display: inline-block;
+    margin-right: -4px; /* get rid of the weird space between inline-block elements*/
+    margin-top: -4px;
+}
+
+#div__21 {
+    width: 250px;
+    height: 200px;
+}
+
+#div__22 {
+    width: 175px;
+    height: 200px;
+}
+
+#div__23 {
+    width: 85px;
+    height: 200px;
+}
+
+#div__24 {
+    width: 150px;
+    height: 200px;
+}
+
+#div__31,
+#div__32,
+#div__33,
+#div__34 {
+    clear: right;
+    border-style: solid;
+    border-width: 5px;
+    border-color: black;
+    background-color: white;
+    display: inline-block;
+    margin-right: -4px; /* get rid of the weird space between inline-block elements*/
+    margin-top: -4px;
+}
+
+
+#div__31 {
+    width: 250px;
+    height: 150px;
+}
+
+#div__32 {
+    width: 175px;
+    height: 150px;
+}
+
+#div__33 {
+    width: 85px;
+    height: 150px;
+}
+
+#div__34 {
+    width: 150px;
+    height: 150px;
+}
+
+#div__41,
+#div__42,
+#div__43,
+#div__44 {
+    clear: right;
+    border-style: solid;
+    border-width: 5px;
+    border-color: black;
+    background-color: white;
+    display: inline-block;
+    margin-right: -4px; /* get rid of the weird space between inline-block elements*/
+    margin-top: -4px;
+}
+
+
+#div__41 {
+    width: 250px;
+    height: 75px;
+}
+
+#div__42 {
+    width: 175px;
+    height: 75px;
+}
+
+#div__43 {
+    width: 85px;
+    height: 75px;
+}
+
+#div__44 {
+    width: 150px;
+    height: 75px;
+}
