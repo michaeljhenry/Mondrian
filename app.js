@@ -36,7 +36,6 @@ var contorller = (function(colourCtrl, UICtrl) {
 
     var addColourCtrl = function(colour) {
       
-        //console.log(colourIdCtrl);
         UICtrl.addColour(colour);
     }
 
